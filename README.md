@@ -4,13 +4,12 @@ Official distribution repository for **AKA AI Tools Pilot** Desktop Application 
 
 🌐 Website: [www.akatools.my.id](https://www.akatools.my.id)
 
-### Unduh Versi Terbaru (v1.0.7)
-Direct Download: [AKA AI Tools Pilot v1.0.7 (.exe)](https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.0.7/AKA.AI.Tools.Pilot-v1.0.7.exe)
+### Unduh Versi Terbaru (v1.0.8)
+Direct Download: [AKA AI Tools Pilot v1.0.8 (.exe)](https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.0.8/AKA.AI.Tools.Pilot-v1.0.8.exe)
 
-#### Fitur & Catatan Rilis v1.0.7:
-- **Motion Control Studio Baru**: Desain 4 kategori ringkas dengan penata kalimat interaktif dan dropdown lengkap 20 prompt terintegrasi cloud & offline.
-- **Scroll Speed Natural**: Penyesuaian kehalusan dan kecepatan scroll mouse wheel menjadi natural di seluruh halaman aplikasi.
-- **Smooth Drag-and-Drop Akun**: Kartu akun pada grid view bergerak mulus mengikuti kursor secara 2D tanpa hentakan kaku.
-- **Universal Drag-to-Scroll Tab Menu**: Dukungan geser/pan tab menu horizontal dengan klik tahan mouse di seluruh menu aplikasi.
-- **Hapus Riwayat Prompt**: Tombol pembersih riwayat prompt yang sudah dibuat di semua menu Productivity Studio.
-- **In-App Direct Auto Updater**: Pembaruan otomatis langsung dari aplikasi tanpa instal ulang manual.
+#### Fitur & Catatan Rilis v1.0.8:
+- **Penguncian Lisensi Free yang Ketat**: Fitur Tools (TikTok Downloader, Split Video), penambahan Platform Custom, dan generator Productivity Studio terkunci rapi khusus pengguna Pro/Pro All.
+- **Batas Kuota Akun Sesuai Lisensi**: Member Free dibatasi maksimal 3 akun per platform, Pro Platform dibatasi 5 akun untuk platform pendamping (unlimited untuk platform utama), dan Pro All unlimited di semua platform.
+- **Indikator Kuota Real-time**: Label status dan sisa kuota akun tampil langsung di header daftar akun.
+- **Sinkronisasi Lisensi Instan**: Pembaruan hak akses dan status aktivasi langsung bereaksi tanpa perlu restart aplikasi.
+- **In-App Direct Auto Updater**: Notifikasi dan pembaruan instan ke versi 1.0.8 bagi seluruh pengguna versi sebelumnya.
