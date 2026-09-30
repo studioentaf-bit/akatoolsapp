@@ -3,7 +3,7 @@
   "android": {
     "version": "1.2.3",
     "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.2.3.apk",
-    "changelog": "Pembaruan v1.2.3:\n1. Proteksi Lisensi: Penguncian menu & fitur Pro untuk lisensi Free (badge 🔒 PRO & dialog aktivasi lisensi).\n2. Pembaruan Otomatis: Download dan instalasi APK langsung di dalam aplikasi tanpa membuka browser.\n3. Perbaikan Gemini AI & integrasi model stabil gemini-3.5-flash."
+    "changelog": "Pembaruan v1.2.3:\n1. Integrasi Penuh Menu Shop: Tampilan katalog sama persis dengan Desktop (Semua Produk, Akun & Tools, Paket Bundling, Lisensi Aplikasi).\n2. Sinkronisasi Harga & Stok Real-Time: Harga resmi tertera jelas (bukan Rp0) dan stok sinkron dengan database.\n3. Dialog Pembelian Interaktif: Checkout instan via QRIS Web atau pesan langsung via WhatsApp CS.\n4. Proteksi Lisensi Pro: Penguncian menu Pro untuk lisensi Free (badge 🔒 PRO & aktivasi).\n5. In-App Auto Downloader & Updater."
   },
   "desktop": {
     "version": "1.2.1",
