@@ -1,9 +1,9 @@
 {
   "success": true,
   "android": {
-    "version": "1.2.4",
-    "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.2.4.apk",
-    "changelog": "Pembaruan v1.2.4:\n1. Integrasi Penuh Menu Shop: Tampilan katalog sama persis dengan Desktop (Semua Produk, Akun & Tools, Paket Bundling, Lisensi Aplikasi).\n2. Sinkronisasi Harga & Stok Real-Time: Harga resmi tertera jelas (bukan Rp0) dan stok sinkron dengan database.\n3. Dialog Pembelian Interaktif: Checkout instan via QRIS Web atau pesan langsung via WhatsApp CS.\n4. Proteksi Lisensi Pro: Penguncian menu Pro untuk lisensi Free (badge 🔒 PRO & aktivasi).\n5. In-App Auto Downloader & Updater."
+    "version": "1.2.5",
+    "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.2.5.apk",
+    "changelog": "Pembaruan v1.2.5:\n1. Pembayaran QRIS Langsung Dalam Aplikasi: Klik Beli Sekarang langsung memunculkan barcode QRIS resmi dan total transfer unik tanpa membuka browser.\n2. Tampilan Menu Shop Bersih Persis Desktop: Menghapus thumbnail kartu produk agar tampilan rapi, elegan, dan identik dengan versi PC.\n3. Fitur Salin Nominal & Konfirmasi WhatsApp: Kemudahan menyalin nominal transfer persis dan konfirmasi pesanan ke admin."
   },
   "desktop": {
     "version": "1.2.1",
