@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "android": {
+    "version": "1.2.3",
+    "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.2.3.apk",
+    "changelog": "Pembaruan v1.2.3:\n1. Proteksi Lisensi: Penguncian menu & fitur Pro untuk lisensi Free (badge 🔒 PRO & dialog aktivasi lisensi).\n2. Pembaruan Otomatis: Download dan instalasi APK langsung di dalam aplikasi tanpa membuka browser.\n3. Perbaikan Gemini AI & integrasi model stabil gemini-3.5-flash."
+  },
+  "desktop": {
+    "version": "1.2.1",
+    "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.1/AKA.AI.Tools.Pilot-v1.2.1.exe",
+    "changelog": "Pembaruan performa dan integrasi model Gemini terbaru."
+  }
+}
