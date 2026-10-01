@@ -1,9 +1,9 @@
 {
   "success": true,
   "android": {
-    "version": "1.2.5",
-    "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.2.5.apk",
-    "changelog": "Pembaruan v1.2.5:\n1. Pembayaran QRIS Langsung Dalam Aplikasi: Klik Beli Sekarang langsung memunculkan barcode QRIS resmi dan total transfer unik tanpa membuka browser.\n2. Tampilan Menu Shop Bersih Persis Desktop: Menghapus thumbnail kartu produk agar tampilan rapi, elegan, dan identik dengan versi PC.\n3. Fitur Salin Nominal & Konfirmasi WhatsApp: Kemudahan menyalin nominal transfer persis dan konfirmasi pesanan ke admin."
+    "version": "1.2.6",
+    "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.2.6.apk",
+    "changelog": "Pembaruan v1.2.6:\n1. Sinkronisasi Sempurna Stok Riil: Jumlah stok produk di APK Android kini 100% akurat dan sama persis dengan yang tampil di Website dan Aplikasi Desktop (tersinkronisasi langsung dari database stok riil).\n2. Integrasi Pembayaran QRIS & Tampilan Shop Elegan."
   },
   "desktop": {
     "version": "1.2.1",
