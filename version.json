@@ -1,9 +1,9 @@
 {
   "success": true,
   "android": {
-    "version": "1.2.6",
-    "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.2.6.apk",
-    "changelog": "Pembaruan v1.2.6:\n1. Sinkronisasi Sempurna Stok Riil: Jumlah stok produk di APK Android kini 100% akurat dan sama persis dengan yang tampil di Website dan Aplikasi Desktop (tersinkronisasi langsung dari database stok riil).\n2. Integrasi Pembayaran QRIS & Tampilan Shop Elegan."
+    "version": "1.2.7",
+    "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.2.7.apk",
+    "changelog": "Pembaruan v1.2.7:\n1. Perbaikan Tombol Preset Produktivitas AI: Seluruh opsi konsep pemotretan, gaya visual, lensa, kamera, karakter, suara, animasi, dsb kini dapat diklik dan aktif secara responsif.\n2. Menu Dropdown Akun Platform AI: Setiap platform kini menampilkan menu dropdown jumlah dan pilihan list akun sebelum membuka akun.\n3. Peningkatan performa dan kestabilan aplikasi."
   },
   "desktop": {
     "version": "1.2.1",
