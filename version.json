@@ -1,9 +1,9 @@
 {
   "success": true,
   "android": {
-    "version": "1.2.7",
-    "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.2.7.apk",
-    "changelog": "Pembaruan v1.2.7:\n1. Perbaikan Tombol Preset Produktivitas AI: Seluruh opsi konsep pemotretan, gaya visual, lensa, kamera, karakter, suara, animasi, dsb kini dapat diklik dan aktif secara responsif.\n2. Menu Dropdown Akun Platform AI: Setiap platform kini menampilkan menu dropdown jumlah dan pilihan list akun sebelum membuka akun.\n3. Peningkatan performa dan kestabilan aplikasi."
+    "version": "1.2.8",
+    "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.2.8.apk",
+    "changelog": "Pembaruan v1.2.8:\n1. Integrasi Fitur Upload File & Media di Seluruh Platform AI: Implementasi onShowFileChooser WebView Chrome Client lengkap dengan dukungan pemilihan berkas dokumen, galeri, foto, serta pengambilan foto langsung via Kamera.\n2. Izin Akses Penyimpanan Lengkap: Menambahkan izin media dan legacy external storage untuk memastikan kelancaran upload di semua versi Android.\n3. Fitur Download File Otomatis: Integrasi DownloadManager untuk kemudahan mengunduh file hasil karya dari platform AI ke folder Downloads perangkat.\n4. Kestabilan & Performa Tinggi."
   },
   "desktop": {
     "version": "1.2.1",
