@@ -1,13 +1,14 @@
 {
   "success": true,
   "android": {
-    "version": "1.2.9",
-    "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.2.9.apk",
-    "changelog": "Pembaruan v1.2.9:\n1. Dukungan Penuh Download File/Media dari Platform AI: Penanganan cerdas untuk Blob URL (ChatGPT DALL-E, Flow, Claude, Canva) dan Data Base64 URL via JavaScript Interface yang langsung dialirkan ke penyimpanan perangkat.\n2. Integrasi MediaStore Downloads: File unduhan otomatis tersimpan rapi di folder publik Downloads perangkat (Android 10+ Scoped Storage & legacy storage Android 9-).\n3. Integrasi Penuh File Upload: Pemilihan file dokumen, galeri media, dan kamera langsung.\n4. Kestabilan & Performa Tinggi."
+    "version": "1.3.0",
+    "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.3.0.apk",
+    "changelog": "Pembaruan v1.3.0:\n1. Menu Baru Tutorial: Panduan video resmi YouTube terintegrasi langsung di aplikasi untuk navigasi, upload/download file, dan aktivasi lisensi.\n2. Perbaikan Total Download & Upload ke Perangkat: Solusi tuntas download file dan gambar dari platform AI Flow, ChatGPT, Dola, Custom Web & Produktivitas ke memori HP tanpa error 'Failed to fetch'.\n3. Pengelolaan Blob Cache & Auto-Delay Revoke: Mencegah kegagalan pengunduhan blob instan di browser mobile.\n4. Peningkatan stabilitas dan kompatibilitas sistem Android."
   },
   "desktop": {
-    "version": "1.2.1",
-    "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.1/AKA.AI.Tools.Pilot-v1.2.1.exe",
-    "changelog": "Pembaruan performa dan integrasi model Gemini terbaru."
+    "version": "1.2.2",
+    "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.2/AKA.AI.Tools.Pilot-v1.2.2.exe",
+    "changelog": "Pembaruan v1.2.2:\n1. Penambahan Menu 'Tutorial' di Sidebar dengan pemutar video YouTube terintegrasi.\n2. Sinkronisasi video tutorial dinamis dari panel admin web menu Konten.\n3. Peningkatan performa WebView2 dan integrasi Studio Produktivitas."
   }
 }
+
