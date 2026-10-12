@@ -7,7 +7,7 @@
   },
   "desktop": {
     "version": "1.2.2",
-    "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA.AI.Tools.Pilot-v1.2.2.exe",
+    "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.2/AKA.AI.Tools.Pilot-v1.2.2.exe",
     "changelog": "Pembaruan v1.2.2:\n1. Penambahan Menu 'Tutorial' di Sidebar dengan pemutar video YouTube terintegrasi.\n2. Sinkronisasi video tutorial dinamis dari panel admin web menu Konten.\n3. Peningkatan performa WebView2 dan integrasi Studio Produktivitas."
   }
 }
