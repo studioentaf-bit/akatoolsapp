@@ -1,14 +1,14 @@
 {
   "success": true,
   "android": {
-    "version": "1.3.1",
-    "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.3.1.apk",
-    "changelog": "Pembaruan v1.3.1:\n1. Perbaikan total pemutaran video YouTube di WebView APK Android (Fix Error 153).\n2. Tata letak feed video tutorial YouTube list ke bawah (bukan bar atas).\n3. Animasi transisi pergerakan menu yang halus, mulus, dan dinamis.\n4. Peningkatan performa render & sinkronisasi playlist tutorial."
+    "version": "1.3.2",
+    "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.3.2.apk",
+    "changelog": "Pembaruan v1.3.2:\n1. Perbaikan menyeluruh kendala generate video & media di Google Flow (Fix peringatan unusual activity & browser extensions).\n2. Update URL resmi Google Flow (flow.google.com) dan isolasi skrip DOM browser.\n3. Peningkatan kompatibilitas browser engine Android & stabilitas multi-platform."
   },
   "desktop": {
-    "version": "1.2.3",
-    "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.3/AKA.AI.Tools.Pilot-v1.2.3.exe",
-    "changelog": "Pembaruan v1.2.3:\n1. Perbaikan total pemutaran video YouTube di WebView (Fix Error 153).\n2. Tata letak daftar tutorial bergaya beranda YouTube (vertikal scroll ke bawah dengan thumbnail dan kartu interaktif).\n3. Animasi transisi menu & fitur lebih halus dan mulus (fade & slide-up movement).\n4. Peningkatan stabilitas dan kompatibilitas sistem Desktop Windows."
+    "version": "1.2.4",
+    "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.4/AKA.AI.Tools.Pilot-v1.2.4.exe",
+    "changelog": "Pembaruan v1.2.4:\n1. Perbaikan menyeluruh kendala generate video & media di Google Flow (Fix peringatan unusual activity & browser extensions).\n2. Update URL resmi Google Flow (flow.google.com) serta optimasi WebView2 environment (anti-automation flag & isolating extensions).\n3. Peningkatan performa & kompatibilitas sistem Desktop Windows."
   }
 }
 
