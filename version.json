@@ -6,9 +6,9 @@
     "changelog": "Pembaruan v1.3.2:\n1. Perbaikan menyeluruh kendala generate video & media di Google Flow (Fix peringatan unusual activity & browser extensions).\n2. Update URL resmi Google Flow (flow.google.com) dan isolasi skrip DOM browser.\n3. Peningkatan kompatibilitas browser engine Android & stabilitas multi-platform."
   },
   "desktop": {
-    "version": "1.2.4",
-    "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.4/AKA.AI.Tools.Pilot-v1.2.4.exe",
-    "changelog": "Pembaruan v1.2.4:\n1. Perbaikan menyeluruh kendala generate video & media di Google Flow (Fix peringatan unusual activity & browser extensions).\n2. Update URL resmi Google Flow (flow.google.com) serta optimasi WebView2 environment (anti-automation flag & isolating extensions).\n3. Peningkatan performa & kompatibilitas sistem Desktop Windows."
+    "version": "1.2.5",
+    "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.5/AKA.AI.Tools.Pilot-v1.2.5.exe",
+    "changelog": "Pembaruan v1.2.5:\n1. Pembaruan menyeluruh tampilan interface Desktop persis referensi modern (Header pencarian terpusat, status 95%, notifikasi, profil akun).\n2. Studio Produktivitas dipindah ke sisi kanan dengan tombol floating vertikal dan animasi scale workspace dinamis.\n3. Dropdown daftar akun langsung di sidebar Platform AI untuk akses instan.\n4. Tampilan Dashboard baru dilengkapi Hero Card multi-workspace, kartu pintasan platform, dan preview tutorial video.\n5. Penghapusan penuh platform Migoo AI dari aplikasi."
   }
 }
 
