@@ -6,8 +6,8 @@
     "changelog": "Pembaruan v1.3.2:\n1. Perbaikan menyeluruh kendala generate video & media di Google Flow (Fix peringatan unusual activity & browser extensions).\n2. Update URL resmi Google Flow (flow.google.com) dan isolasi skrip DOM browser.\n3. Peningkatan kompatibilitas browser engine Android & stabilitas multi-platform."
   },
   "desktop": {
-    "version": "1.2.6",
-    "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.6/AKA.AI.Tools.Pilot-v1.2.6.exe",
-    "changelog": "Pembaruan v1.2.6:\n1. Hasil Generate Semua Menu Produktivitas: Disusun vertikal (Form di atas, Hasil Generate di bawah) sehingga tidak tertutup dan bebas leluasa dilihat dalam drawer.\n2. Header Studio Produktivitas: Dirapikan khusus untuk status API Key (🔑) dan Pengaturan Kunci (⚙️). Menu Generator dipindahkan ke tombol floating di sebelah kanan (🛠️ Menu Generator) dengan overlay menu yang rapi.\n3. Preview Tutorial Dashboard Terintegrasi: Kartu video preview di Dashboard kini terhubung 100% secara dinamis dengan database dan menu Tutorial (Thumbnail, Judul, Durasi, dan auto-play langkah video yang dipilih).\n4. Tombol Floating Produktivitas: Margin dan penempatan diperbaiki agar tidak terpotong atau tertutup saat membuka platform AI (WebView2)."
+    "version": "1.2.7",
+    "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.7/AKA.AI.Tools.Pilot-v1.2.7.exe",
+    "changelog": "Pembaruan v1.2.7:\n1. Animasi Kesehatan (Omni Flash): Perbaikan crash XamlParseException (EmeraldDark) saat generate scene kedua.\n2. Voiceover TTS: Output audio bersih murni membaca teks input user tanpa embel-embel perintah bacaan di awal.\n3. Pemecahan Multi-Output Prompt: Hasil generate multi-variasi/scene/shot kini dipisahkan ke masing-masing box mandiri dengan tombol Salin Prompt per bagian serta tombol Salin Semua di atas.\n4. Fokus Prompt Murni: Hapus semua tombol Generate Gambar pada menu generator prompt (cukup prompt teks saja).\n5. Tombol Bersihkan Form: Didesain ulang menjadi tombol merah tegas agar mudah terlihat dan digunakan.\n6. Motion Control & UI Sizing: Menu Motion Control dan tombol aksi disusun adaptif & fleksibel agar tidak terpotong pada berbagai resolusi."
   }
 }
