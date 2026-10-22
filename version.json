@@ -6,8 +6,8 @@
     "changelog": "Pembaruan v1.3.2:\n1. Perbaikan menyeluruh kendala generate video & media di Google Flow (Fix peringatan unusual activity & browser extensions).\n2. Update URL resmi Google Flow (flow.google.com) dan isolasi skrip DOM browser.\n3. Peningkatan kompatibilitas browser engine Android & stabilitas multi-platform."
   },
   "desktop": {
-    "version": "1.2.7",
-    "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.7/AKA.AI.Tools.Pilot-v1.2.7.exe",
-    "changelog": "Pembaruan v1.2.7:\n1. Animasi Kesehatan (Omni Flash): Perbaikan crash XamlParseException (EmeraldDark) saat generate scene kedua.\n2. Voiceover TTS: Output audio bersih murni membaca teks input user tanpa embel-embel perintah bacaan di awal.\n3. Pemecahan Multi-Output Prompt: Hasil generate multi-variasi/scene/shot kini dipisahkan ke masing-masing box mandiri dengan tombol Salin Prompt per bagian serta tombol Salin Semua di atas.\n4. Fokus Prompt Murni: Hapus semua tombol Generate Gambar pada menu generator prompt (cukup prompt teks saja).\n5. Tombol Bersihkan Form: Didesain ulang menjadi tombol merah tegas agar mudah terlihat dan digunakan.\n6. Motion Control & UI Sizing: Menu Motion Control dan tombol aksi disusun adaptif & fleksibel agar tidak terpotong pada berbagai resolusi."
+    "version": "1.2.8",
+    "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.8/AKA.AI.Tools.Pilot-v1.2.8.exe",
+    "changelog": "Pembaruan v1.2.8:\n1. Animasi Kesehatan (Riset Ide): Ditambahkan tombol Salin Ide pada setiap kartu ide hasil generate sehingga pengguna dapat menyalin topik, hook, visual 3D, dan alasan viral secara mandiri.\n2. Posisi Tombol Header Dinamis: Seluruh tombol aksi pada bagian hasil generate diatur posisinya di bawah judul teks dalam WrapPanel adaptif, menghilangkan masalah tombol menutupi teks hasil di semua resolusi.\n3. Pembersihan Elemen Tombol Gambar: Menghapus total tombol generate gambar dan checkbox auto-generate dari semua menu prompt (Foto Produk, Mockup 3D, Storyboard).\n4. Pemecahan Multi-Output Prompt: Setiap adegan/variasi prompt terpisah dalam box kartu tersendiri dengan tombol salin masing-masing dan tombol Salin Semua."
   }
 }
