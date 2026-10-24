@@ -1,9 +1,9 @@
 {
   "success": true,
   "android": {
-    "version": "1.3.2",
-    "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.3.2.apk",
-    "changelog": "Pembaruan v1.3.2:\n1. Perbaikan menyeluruh kendala generate video & media di Google Flow (Fix peringatan unusual activity & browser extensions).\n2. Update URL resmi Google Flow (flow.google.com) dan isolasi skrip DOM browser.\n3. Peningkatan kompatibilitas browser engine Android & stabilitas multi-platform."
+    "version": "1.3.3",
+    "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.3.3.apk",
+    "changelog": "Pembaruan v1.3.3:\n1. Perbaikan Unduhan AI & Custom Platform: Mengatasi unduhan berkas yang sebelumnya macet di status proses pada Flow Google, ChatGPT, Dola, dan Custom Platform di semua akun.\n2. Chunked Streaming Download: Arsitektur unduhan Blob & Data URL modern dengan pemotongan slice 256KB anti-crash/anti-limit Binder IPC.\n3. Integrasi Galeri & Penyimpanan: Berkas gambar dan video otomatis terindeks langsung di Galeri HP via MediaStore & MediaScannerConnection.\n4. Fitur Riwayat Unduhan (Download History): Panel riwayat unduhan lengkap dengan info ukuran berkas, tanggal, asal platform/akun, status unduhan, serta akses buka berkas langsung."
   },
   "desktop": {
     "version": "1.2.8",
