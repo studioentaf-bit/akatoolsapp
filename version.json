@@ -1,13 +1,13 @@
 {
   "success": true,
   "android": {
-    "version": "1.3.3",
-    "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.3.3.apk",
-    "changelog": "Pembaruan v1.3.3:\n1. Perbaikan Unduhan AI & Custom Platform: Mengatasi unduhan berkas yang sebelumnya macet di status proses pada Flow Google, ChatGPT, Dola, dan Custom Platform di semua akun.\n2. Chunked Streaming Download: Arsitektur unduhan Blob & Data URL modern dengan pemotongan slice 256KB anti-crash/anti-limit Binder IPC.\n3. Integrasi Galeri & Penyimpanan: Berkas gambar dan video otomatis terindeks langsung di Galeri HP via MediaStore & MediaScannerConnection.\n4. Fitur Riwayat Unduhan (Download History): Panel riwayat unduhan lengkap dengan info ukuran berkas, tanggal, asal platform/akun, status unduhan, serta akses buka berkas langsung."
+    "version": "1.3.4",
+    "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.3.4.apk",
+    "changelog": "Pembaruan v1.3.4:\n1. 3D Playful Pastel Bento UI: Tampilan baru mengusung gaya Soft Claymorphism & Neumorphism modern, cute, dan puffy.\n2. Efek Tekan 3D Timbul (Tactile Feedback): Seluruh tombol, menu sidebar, dan kartu interaktif memiliki animasi timbul dan feedback tekan 3D saat disentuh.\n3. Floating Bento Cards: Tata letak kartu bento mengambang dengan aksen gradien pastel lembut (mint, sky, lavender, peach).\n4. Penyimpanan & Integrasi Aman: Menjaga seluruh stabilitas fitur download, chunked streaming, galeri, dan isolasi akun tetap berjalan 100% sempurna."
   },
   "desktop": {
-    "version": "1.2.8",
-    "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.8/AKA.AI.Tools.Pilot-v1.2.8.exe",
-    "changelog": "Pembaruan v1.2.8:\n1. Animasi Kesehatan (Riset Ide): Ditambahkan tombol Salin Ide pada setiap kartu ide hasil generate sehingga pengguna dapat menyalin topik, hook, visual 3D, dan alasan viral secara mandiri.\n2. Posisi Tombol Header Dinamis: Seluruh tombol aksi pada bagian hasil generate diatur posisinya di bawah judul teks dalam WrapPanel adaptif, menghilangkan masalah tombol menutupi teks hasil di semua resolusi.\n3. Pembersihan Elemen Tombol Gambar: Menghapus total tombol generate gambar dan checkbox auto-generate dari semua menu prompt (Foto Produk, Mockup 3D, Storyboard).\n4. Pemecahan Multi-Output Prompt: Setiap adegan/variasi prompt terpisah dalam box kartu tersendiri dengan tombol salin masing-masing dan tombol Salin Semua."
+    "version": "1.2.9",
+    "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.9/AKA.AI.Tools.Pilot-v1.2.9.exe",
+    "changelog": "Pembaruan v1.2.9:\n1. 3D Playful Pastel Bento UI: Desain antarmuka baru bertema Soft Claymorphism & Neumorphism dengan sudut puffy membulat dan kartu bento pastel elegan.\n2. Efek Klik Timbul 3D Tactile: Seluruh tombol utama, menu sidebar, pill akun, dan card dashboard memiliki efek timbul dan push-down 3D saat diklik.\n3. Palette Pastel Halus & Soft Shadow: Sentuhan warna mint, sky blue, lavender, dan peach dengan efek bayangan berlapis yang memanjakan mata.\n4. Integrasi & Stabilitas Maksimal: Seluruh container WebView2 terisolasi, sinkronisasi lisensi, prompt tools, dan pemutar tutorial tetap terhubung secara andal."
   }
 }
