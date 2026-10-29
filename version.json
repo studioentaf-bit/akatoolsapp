@@ -1,13 +1,13 @@
-﻿{
-    "success":  true,
-    "android":  {
-                    "version":  "1.3.5",
-                    "downloadUrl":  "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.3.5.apk",
-                    "changelog":  "Pembaruan v1.3.5:\n1. Perbaikan Generate Google Flow (Botguard Anti-Tamper Fix): Menghapus injeksi ekstensi Blob download script dan interface window khusus pada domain Google Flow (flow.google.com \u0026 labs.google), mengatasi pesan error aktivitas tidak biasa / ekstensi browser.\n2. Unduhan Native Google Flow: Menyelaraskan seluruh pengunduhan media dari Flow langsung melalui native WebView stream downloader.\n3. 3D Playful Pastel Bento UI: Desain Soft Claymorphism \u0026 Neumorphism modern dengan efek timbul dan klik 3D tactile di semua tombol dan menu.\n4. Integrasi \u0026 Stabilitas: Keamanan multi-profile container dan isolasi akun tetap berjalan 100% sempurna."
-                },
-    "desktop":  {
-                    "version":  "1.2.13",
-                    "downloadUrl":  "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.13/AKA.AI.Tools.Pilot-v1.2.13.exe",
-                    "changelog":  "Pembaruan v1.2.13:\n1. Fix Ikon \u0026 Vector Viewbox Presisi: Memperbaiki ikon notifikasi bell, download history, serta tombol Edit (pensil) dan Hapus (tempat sampah) pada card akun dan platform dengan wrapping Viewbox \u0026 ControlTemplate khusus sehingga tampil tajam dan tidak hilang.\n2. Typography \u0026 Anti-Blur Layar: Mengganti mode teks ke Display ClearType dengan Fixed hinting, menghilangkan bayangan berlebih dan font weight Black yang blur, membuat seluruh teks dan elemen tajam sempurna.\n3. Motion Control Sub-Sentence High-Contrast: Tombol angka variasi kalimat (1-10) kini menggunakan styling kontras tinggi dengan angka jelas, background solid, dan indikator aktif emerald.\n4. Tombol Breadcrumb Animasi: Menambahkan tombol \u0027Kembali ke Katalog Studio\u0027 pada view Animasi 2D/3D \u0026 Anime / Edukasi.\n5. Sinkronisasi Email \u0026 Kredit Flow Otomatis: List akun di sidebar kini menampilkan email tersamar (format ***@gmail.com) dan badge jumlah kredit/tier Flow secara otomatis dari sesi browser WebView2."
-                }
+{
+    "success": true,
+    "android": {
+        "version": "1.3.5",
+        "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.3.5.apk",
+        "changelog": "Pembaruan v1.3.5:\n1. Perbaikan Generate Google Flow (Botguard Anti-Tamper Fix): Menghapus injeksi ekstensi Blob download script dan interface window khusus pada domain Google Flow (flow.google.com & labs.google), mengatasi pesan error aktivitas tidak biasa / ekstensi browser.\n2. Unduhan Native Google Flow: Menyelaraskan seluruh pengunduhan media dari Flow langsung melalui native WebView stream downloader.\n3. 3D Playful Pastel Bento UI: Desain Soft Claymorphism & Neumorphism modern dengan efek timbul dan klik 3D tactile di semua tombol dan menu.\n4. Integrasi & Stabilitas: Keamanan multi-profile container dan isolasi akun tetap berjalan 100% sempurna."
+    },
+    "desktop": {
+        "version": "1.2.14",
+        "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.14/AKA.AI.Tools.Pilot-v1.2.14.exe",
+        "changelog": "Pembaruan v1.2.14:\n1. Deteksi Kredit Google Flow & Akumulasi Total: Deteksi kredit otomatis via trigger DOM overlay akun (.credits-count & tier-chip), menampilkan kredit di samping email/nama akun, dan badge total kredit di sebelah platform Google Flow.\n2. Browser Navigation Icons & Sharp Buttons: Memperbaiki tombol Back, Forward, dan Reload browser dengan vector SVG Path + Viewbox, memperbaiki tombol angka Motion Control (1-10) dengan MotionNumberPillBtn, dan tombol Edit akun dengan CreateEditIcon.\n3. Fitur Dark Mode Tema Emerald: Tombol toggle tema ☀️ / 🌙 di header atas, warna deep emerald (#061a14, #0b261e, #134636) dengan kontras teks tajam (#f8fafc), tersimpan persisten di ui-settings.json.\n4. Prompt Premium & Katalog Gemini Canvas: Tombol floating 💎 PROMPT PREMIUM di kanan, drawer katalog tools Gemini Canvas dengan tombol Buka Canvas ↗, serta panel kelola Referensi App+ di Web Admin (/admin/app-plus)."
+    }
 }
