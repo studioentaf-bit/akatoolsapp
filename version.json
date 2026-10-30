@@ -1,9 +1,9 @@
 {
     "success": true,
     "android": {
-        "version": "1.3.6",
-        "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.3.6.apk",
-        "changelog": "Pembaruan v1.3.6:\n1. Menu Prompt Premium: Menambahkan menu Prompt Premium di sidebar menu dengan tampilan grid card 2 kolom yang ringkas dan cover gambar cepat.\n2. Full-Screen Canvas Viewer: Mengetuk Buka pada card Prompt Premium langsung membuka kanvas interaktif full-screen dengan tombol Kembali ke Katalog.\n3. Unduhan Galeri Otomatis Google Flow & Semua Platform: Memperbaiki sistem unduhan sehingga video/gambar dari Google Flow, Platform AI, dan Platformku langsung masuk ke Galeri perangkat (Pictures/AKA_AI & Movies/AKA_AI) tanpa memicu Botguard login."
+        "version": "1.3.7",
+        "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.3.7.apk",
+        "changelog": "Pembaruan v1.3.7:\n1. Card Banner Selamat Datang di Dashboard: Menambahkan section banner Selamat Datang interaktif persis seperti di Desktop Windows dengan carousel horizontal dan tombol Segarkan.\n2. Solusi Tuntas Buka URL Canvas Prompt Premium: Memperbaiki serialisasi data katalog PascalCase dari server sehingga seluruh card Prompt Premium memuat judul, cover gambar, dan URL canvas secara sempurna.\n3. Optimasi Penampil Media: Prepend domain server otomatis untuk thumbnail relative path dan handling full-screen canvas yang lebih mulus."
     },
     "desktop": {
         "version": "1.2.29",
