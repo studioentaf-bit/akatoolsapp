@@ -6,8 +6,8 @@
         "changelog": "Pembaruan v1.3.5:\n1. Perbaikan Generate Google Flow (Botguard Anti-Tamper Fix): Menghapus injeksi ekstensi Blob download script dan interface window khusus pada domain Google Flow (flow.google.com & labs.google), mengatasi pesan error aktivitas tidak biasa / ekstensi browser.\n2. Unduhan Native Google Flow: Menyelaraskan seluruh pengunduhan media dari Flow langsung melalui native WebView stream downloader.\n3. 3D Playful Pastel Bento UI: Desain Soft Claymorphism & Neumorphism modern dengan efek timbul dan klik 3D tactile di semua tombol dan menu.\n4. Integrasi & Stabilitas: Keamanan multi-profile container dan isolasi akun tetap berjalan 100% sempurna."
     },
     "desktop": {
-        "version": "1.2.24",
-        "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.24/AKA.AI.Tools.Pilot-v1.2.24.exe",
-        "changelog": "Pembaruan v1.2.24:\n1. Desain Grid Cards Prompt Premium: Tampilan list menu Prompt Premium kini menggunakan tata letak Grid Cards responsif dengan judul dan deskripsi lengkap di bawah kartu agar tidak terpotong.\n2. Pembersihan Teks & Badge: Menghapus badge 'GEMINI CANVAS' dan menyederhanakan tombol aksi menjadi 'Buka ↗'.\n3. Header Web App Utuh & Hapus Tombol Luar: Menghapus tombol buka di luar pada detail view serta memperbaiki selektor CSS sehingga header web app (seperti UGC Generator Pro) tidak terpotong lagi.\n4. Interaksi Sidebar Presisi: Mengklik kartu platform hanya memilih/membuka workspace; dropdown daftar akun hanya aktif saat ikon panah diklik."
+        "version": "1.2.25",
+        "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.25/AKA.AI.Tools.Pilot-v1.2.25.exe",
+        "changelog": "Pembaruan v1.2.25:\n1. Skala Dinamis Responsif (Splitter Drag Fix): Memperbaiki bug ukuran statis pada drawer Prompt Premium sehingga saat garis batas digeser, lebar drawer merespons secara mulus tanpa memotong konten.\n2. Card Grid Auto-Fit Real-Time: Menambahkan kalkulasi lebar kartu otomatis yang menyesuaikan dengan ruang drawer (2, 3, hingga 4 kolom) sehingga tidak ada kartu yang terpotong di tepi kanan.\n3. WebView2 Canvas Auto-Stretch & Scrolling: Menjadikan wadah WebView2 dan iframe canvas beradaptasi 100% mengikuti lebar kolom baru secara real-time dengan dukungan scrolling jika konten melebihi batas."
     }
 }
