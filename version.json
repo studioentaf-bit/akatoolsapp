@@ -1,9 +1,9 @@
 {
     "success": true,
     "android": {
-        "version": "1.3.7",
-        "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.3.7.apk",
-        "changelog": "Pembaruan v1.3.7:\n1. Card Banner Selamat Datang di Dashboard: Menambahkan section banner Selamat Datang interaktif persis seperti di Desktop Windows dengan carousel horizontal dan tombol Segarkan.\n2. Solusi Tuntas Buka URL Canvas Prompt Premium: Memperbaiki serialisasi data katalog PascalCase dari server sehingga seluruh card Prompt Premium memuat judul, cover gambar, dan URL canvas secara sempurna.\n3. Optimasi Penampil Media: Prepend domain server otomatis untuk thumbnail relative path dan handling full-screen canvas yang lebih mulus."
+        "version": "1.3.8",
+        "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.3.8.apk",
+        "changelog": "Pembaruan v1.3.8:\n1. Tampilan Bersih Gemini Canvas (Persis Desktop): Menyembunyikan header atas Gemini (logo, text, tombol login) dan footer bawah (Laporkan konten tidak aman, Coba Gemini Canvas) dengan CSS & DOM cleaner observer secara real-time.\n2. Sesi Akun Google Terintegrasi & Multi-Account Selector: Gemini Canvas langsung otomatis menggunakan sesi login akun Google yang sudah aktif di platform AI (Flow) tanpa perlu login ulang, dilengkapi chip pemilih akun untuk beralih akun Google secara instan.\n3. Perbaikan Tombol Kembali ke Katalog: Tombol navigasi kembali kini menggunakan latar putih solid dengan teks emerald kontras tajam sehingga selalu terbaca jelas.\n4. Optimasi Banner Dashboard Selamat Datang: Menghapus full dark overlay agar gambar tampil cerah dan jernih, teks judul tidak menutupi gambar dengan scrim gradient halus di bagian bawah, serta badge FITUR BARU/MARKETPLACE berlatar emerald solid dengan kontras teks putih tajam."
     },
     "desktop": {
         "version": "1.2.29",
