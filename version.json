@@ -1,13 +1,13 @@
 {
     "success": true,
     "android": {
-        "version": "1.3.5",
-        "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.3.5.apk",
-        "changelog": "Pembaruan v1.3.5:\n1. Perbaikan Generate Google Flow (Botguard Anti-Tamper Fix): Menghapus injeksi ekstensi Blob download script dan interface window khusus pada domain Google Flow (flow.google.com & labs.google), mengatasi pesan error aktivitas tidak biasa / ekstensi browser.\n2. Unduhan Native Google Flow: Menyelaraskan seluruh pengunduhan media dari Flow langsung melalui native WebView stream downloader.\n3. 3D Playful Pastel Bento UI: Desain Soft Claymorphism & Neumorphism modern dengan efek timbul dan klik 3D tactile di semua tombol dan menu.\n4. Integrasi & Stabilitas: Keamanan multi-profile container dan isolasi akun tetap berjalan 100% sempurna."
+        "version": "1.3.6",
+        "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.3.6.apk",
+        "changelog": "Pembaruan v1.3.6:\n1. Menu Prompt Premium: Menambahkan menu Prompt Premium di sidebar menu dengan tampilan grid card 2 kolom yang ringkas dan cover gambar cepat.\n2. Full-Screen Canvas Viewer: Mengetuk Buka pada card Prompt Premium langsung membuka kanvas interaktif full-screen dengan tombol Kembali ke Katalog.\n3. Unduhan Galeri Otomatis Google Flow & Semua Platform: Memperbaiki sistem unduhan sehingga video/gambar dari Google Flow, Platform AI, dan Platformku langsung masuk ke Galeri perangkat (Pictures/AKA_AI & Movies/AKA_AI) tanpa memicu Botguard login."
     },
     "desktop": {
-        "version": "1.2.28",
-        "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.28/AKA.AI.Tools.Pilot-v1.2.28.exe",
-        "changelog": "Pembaruan v1.2.28:\n1. Anti-Reset Prompt Google Flow (Tab Switch Fix): Menghilangkan pemicu sinkronisasi dan keypress Escape saat berpindah tab workspace, serta menambahkan proteksi saat pengguna sedang mengetik sehingga teks prompt yang sudah ditulis tidak pernah hilang atau ter-refresh.\n2. Perbaikan Potong & Download Video Editor: Memperbaiki kegagalan export setelah pemotongan klip dengan formatting durasi numerik standar, penyesuaian skala master video, injeksi audio hening akurat per klip, dan eksekusi langsung jika klip tunggal.\n3. Metadata Probing Otomatis: Klip video yang dimasukkan ke timeline langsung dipindai durasi dan resolusi aslinya sehingga ruler timeline presisi."
+        "version": "1.2.29",
+        "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.29/AKA.AI.Tools.Pilot-v1.2.29.exe",
+        "changelog": "Pembaruan v1.2.29:\n1. Perbaikan Gabung & Download Video Editor (FFmpeg Concat BOM Fix): Memperbaiki error unknown keyword ï»¿file pada concat_list.txt dengan encoding UTF-8 tanpa BOM, sehingga penggabungan klip video berjalan 100% mulus dan file hasil edit berhasil diekspor/didownload.\n2. Peningkatan Stabilitas Ekspor Media: Penanganan format file dan parameter audio/video yang lebih andal untuk berbagai resolusi klip."
     }
 }
