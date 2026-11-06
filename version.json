@@ -6,8 +6,8 @@
         "changelog": "Pembaruan v1.3.9:\n1. Deteksi Kredit Google Flow Real-time: Menampilkan sisa kredit Flow langsung di header platform dan pada setiap baris akun (persis aplikasi desktop).\n2. Mode Gelap (Dark Mode) Penuh: Dilengkapi tombol toggle tema (🌙/☀️) di bar navigasi atas dengan palet slate & emerald.\n3. Sinkronisasi Akun & Stabilitas Navigasi WebView."
     },
     "desktop": {
-        "version": "1.2.34",
-        "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.34/AKA.AI.Tools.Pilot-v1.2.34.exe",
-        "changelog": "Pembaruan v1.2.34:\n1. Solusi Layar Stuck & Blank White Muse AI: Otomatis memuat dan me-reload halaman Muse AI seketika setelah kontrol SetupVPN ditutup atau proxy terhubung.\n2. Deteksi Indikator Muse VPN 100% Akurat: Integrasi bridge extension background aktif per-tab sehingga status proxy live (Off/ON) terbaca valid dan konsisten.\n3. Proteksi Navigasi Tab Muse AI: Mencegah tab utama dialihkan ke halaman internal ekstensi dan memastikan selalu diarahkan ke https://muse.ai/."
+        "version": "1.2.35",
+        "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.35/AKA.AI.Tools.Pilot-v1.2.35.exe",
+        "changelog": "Pembaruan v1.2.35:\n1. Indikator Muse VPN Sinkronus Real-time: Indikator langsung mendeteksi koneksi aktif secara sinkronus dari DOM popup dan bridge background, seketika berubah hijau emerald dan teks Muse VPN (ON).\n2. Desain Hijau Emerald Khas AKA: Mengubah tema header popup VPN dan tombol indikator status dengan palet emerald khas AKA (#10b981 & #064e3b).\n3. Tampilan Header Popup Bersih: Menghapus tombol 'Buka Panel SetupVPN' di bilah atas untuk pengalaman pengguna yang lebih simpel dan fokus."
     }
 }
