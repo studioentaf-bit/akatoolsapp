@@ -6,8 +6,8 @@
         "changelog": "Pembaruan v1.3.8:\n1. Tampilan Bersih Gemini Canvas (Persis Desktop): Menyembunyikan header atas Gemini (logo, text, tombol login) dan footer bawah (Laporkan konten tidak aman, Coba Gemini Canvas) dengan CSS & DOM cleaner observer secara real-time.\n2. Sesi Akun Google Terintegrasi & Multi-Account Selector: Gemini Canvas langsung otomatis menggunakan sesi login akun Google yang sudah aktif di platform AI (Flow) tanpa perlu login ulang, dilengkapi chip pemilih akun untuk beralih akun Google secara instan.\n3. Perbaikan Tombol Kembali ke Katalog: Tombol navigasi kembali kini menggunakan latar putih solid dengan teks emerald kontras tajam sehingga selalu terbaca jelas.\n4. Optimasi Banner Dashboard Selamat Datang: Menghapus full dark overlay agar gambar tampil cerah dan jernih, teks judul tidak menutupi gambar dengan scrim gradient halus di bagian bawah, serta badge FITUR BARU/MARKETPLACE berlatar emerald solid dengan kontras teks putih tajam."
     },
     "desktop": {
-        "version": "1.2.29",
-        "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.29/AKA.AI.Tools.Pilot-v1.2.29.exe",
-        "changelog": "Pembaruan v1.2.29:\n1. Perbaikan Gabung & Download Video Editor (FFmpeg Concat BOM Fix): Memperbaiki error unknown keyword ï»¿file pada concat_list.txt dengan encoding UTF-8 tanpa BOM, sehingga penggabungan klip video berjalan 100% mulus dan file hasil edit berhasil diekspor/didownload.\n2. Peningkatan Stabilitas Ekspor Media: Penanganan format file dan parameter audio/video yang lebih andal untuk berbagai resolusi klip."
+        "version": "1.2.30",
+        "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.30/AKA.AI.Tools.Pilot-v1.2.30.exe",
+        "changelog": "Pembaruan v1.2.30:\n1. Integrasi Platform Muse AI (Meta AI): Akses asisten kreasi video dan ide konten otomatis cerdas di kategori Platform AI.\n2. Ekstensi SetupVPN Bawaan (Terisolasi): Koneksi aman dan terisolasi khusus tab Muse AI tanpa mengganggu tab lain atau koneksi laptop.\n3. Panduan Pemula Interaktif: Dialog panduan apa itu Muse AI dan langkah mudah memulainya."
     }
 }
