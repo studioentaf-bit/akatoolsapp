@@ -6,8 +6,8 @@
         "changelog": "Pembaruan v1.3.9:\n1. Deteksi Kredit Google Flow Real-time: Menampilkan sisa kredit Flow langsung di header platform dan pada setiap baris akun (persis aplikasi desktop).\n2. Mode Gelap (Dark Mode) Penuh: Dilengkapi tombol toggle tema (🌙/☀️) di bar navigasi atas dengan palet slate & emerald.\n3. Sinkronisasi Akun & Stabilitas Navigasi WebView."
     },
     "desktop": {
-        "version": "1.2.33",
-        "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.33/AKA.AI.Tools.Pilot-v1.2.33.exe",
-        "changelog": "Pembaruan v1.2.33:\n1. Indikator Status Muse VPN Real-time di Bar Atas: Tombol VPN di navigasi atas kini dilengkapi status live (Off/ON) dan dot hijau/merah dinamis sesuai status proxy SetupVPN.\n2. Tombol Tutup Tab Browser Berkontras Tinggi: Mengganti ikon close tab dengan vektor presisi tinggi yang selalu terlihat jelas baik pada tema terang maupun gelap.\n3. Lisensi Desktop Only Unlimited Akun: Menghapus batas 5 akun per platform pada lisensi Desktop Only, kini sepenuhnya unlimited.\n4. CapCut Video Editor Web & Ikon Platformku Baru: Tombol tools langsung mengarah ke CapCut Web dan icon profil web modern."
+        "version": "1.2.34",
+        "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.34/AKA.AI.Tools.Pilot-v1.2.34.exe",
+        "changelog": "Pembaruan v1.2.34:\n1. Solusi Layar Stuck & Blank White Muse AI: Otomatis memuat dan me-reload halaman Muse AI seketika setelah kontrol SetupVPN ditutup atau proxy terhubung.\n2. Deteksi Indikator Muse VPN 100% Akurat: Integrasi bridge extension background aktif per-tab sehingga status proxy live (Off/ON) terbaca valid dan konsisten.\n3. Proteksi Navigasi Tab Muse AI: Mencegah tab utama dialihkan ke halaman internal ekstensi dan memastikan selalu diarahkan ke https://muse.ai/."
     }
 }
