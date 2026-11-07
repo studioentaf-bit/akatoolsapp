@@ -1,9 +1,9 @@
 {
     "success": true,
     "android": {
-        "version": "1.4.0",
-        "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.4.0.apk",
-        "changelog": "Pembaruan v1.4.0:\n1. Tanda Tangan Sertifikat Produksi Resmi: Menghilangkan peringatan Google Play Protect dengan keystore rilis produksi resmi (V1+V2 Signature).\n2. Mode Gelap Penuh di Semua Menu Sidebar: Latar belakang Platform AI, Platform Custom, Tutorial, Dashboard, Shop, Produktivitas, Tools, dan Pengaturan kini sepenuhnya gelap (deep slate & emerald).\n3. Deteksi Kredit Google Flow Real-Time: Sinkronisasi kredit otomatis secara berkala dengan pembacaan DOM akun Google Flow."
+        "version": "1.4.1",
+        "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.4.1.apk",
+        "changelog": "Pembaruan v1.4.1:\n1. Kompatibilitas Update Mulus (Bebas Konflik Signature): Memulihkan signature keystore resmi asli agar update menimpa versi lama secara langsung tanpa error 'paket bentrok'.\n2. Pembersihan Izin Berisiko: Menghapus izin REQUEST_INSTALL_PACKAGES agar Google Play Protect tidak mencurigai aplikasi sebagai dropper/installer.\n3. Mode Gelap Penuh di Semua Menu Sidebar: Latar belakang Platform AI, Platform Custom, Tutorial, Dashboard, Shop, Produktivitas, Tools, dan Pengaturan kini sepenuhnya gelap (deep slate & emerald).\n4. Deteksi Kredit Google Flow Real-Time: Sinkronisasi kredit otomatis secara berkala dengan pembacaan DOM akun Google Flow."
     },
     "desktop": {
         "version": "1.2.36",
