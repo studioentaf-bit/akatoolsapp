@@ -3,11 +3,11 @@
     "android": {
         "version": "1.4.1",
         "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.4.1.apk",
-        "changelog": "Pembaruan v1.4.1:\n1. Kompatibilitas Update Mulus (Bebas Konflik Signature): Memulihkan signature keystore resmi asli agar update menimpa versi lama secara langsung tanpa error 'paket bentrok'.\n2. Pembersihan Izin Berisiko: Menghapus izin REQUEST_INSTALL_PACKAGES agar Google Play Protect tidak mencurigai aplikasi sebagai dropper/installer.\n3. Mode Gelap Penuh di Semua Menu Sidebar: Latar belakang Platform AI, Platform Custom, Tutorial, Dashboard, Shop, Produktivitas, Tools, dan Pengaturan kini sepenuhnya gelap (deep slate & emerald).\n4. Deteksi Kredit Google Flow Real-Time: Sinkronisasi kredit otomatis secara berkala dengan pembacaan DOM akun Google Flow."
+        "changelog": "Pembaruan v1.4.1:\n1. Kompatibilitas Update Mulus (Bebas Konflik Signature): Memulihkan signature keystore asli agar update menimpa versi lama secara langsung tanpa error 'paket bentrok'.\n2. Pembersihan Izin Berisiko: Menghapus izin REQUEST_INSTALL_PACKAGES agar Google Play Protect tidak mencurigai aplikasi sebagai dropper/installer.\n3. Mode Gelap Penuh di Semua Menu Sidebar: Latar belakang Platform AI, Platform Custom, Tutorial, Dashboard, Shop, Produktivitas, Tools, dan Pengaturan kini sepenuhnya gelap (deep slate & emerald).\n4. Deteksi Kredit Google Flow Real-Time: Sinkronisasi kredit otomatis secara berkala dengan pembacaan DOM akun Google Flow."
     },
     "desktop": {
-        "version": "1.2.36",
-        "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.36/AKA.AI.Tools.Pilot-v1.2.36.exe",
-        "changelog": "Pembaruan v1.2.36:\n1. Ekstensi SetupVPN Tertanam (Solusi Layar Error / Diblokir Edge): Folder ekstensi kini tertanam langsung di dalam .exe dan otomatis diekstrak saat pertama kali dijalankan sehingga tidak akan pernah memicu ERR_BLOCKED_BY_CLIENT di komputer mana pun.\n2. Proteksi Navigasi Bersahabat: Memastikan navigasi internal ekstensi SetupVPN tidak dibatalkan."
+        "version": "1.2.37",
+        "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.37/AKA.AI.Tools.Pilot-v1.2.37.exe",
+        "changelog": "Pembaruan v1.2.37:\n1. Solusi Bentrok Sesi Prompt Premium & Flow Akun 1 (Anti-0x8007139F): Menyamakan cache CoreWebView2Environment dengan opsi seragam di seluruh tab browser dan Canvas Prompt Premium agar tidak macet atau error meski dibuka dalam urutan apa pun.\n2. Tampilan Grid Akun Ringkas 6×4 (Default Scale 100%): Menyusutkan ukuran kartu akun mode Grid secara adaptif menjadi 6 kartu menyamping dan 4 baris ke bawah dalam satu layar.\n3. Gradasi Dark Mode Elegan: Memperkaya latar belakang Dark Mode dengan efek gradasi emerald multi-stop yang serasi di seluruh kartu dan workspace."
     }
 }
