@@ -1,13 +1,13 @@
 {
     "success": true,
     "android": {
-        "version": "1.4.1",
-        "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.4.1.apk",
-        "changelog": "Pembaruan v1.4.1:\n1. Kompatibilitas Update Mulus (Bebas Konflik Signature): Memulihkan signature keystore asli agar update menimpa versi lama secara langsung tanpa error 'paket bentrok'.\n2. Pembersihan Izin Berisiko: Menghapus izin REQUEST_INSTALL_PACKAGES agar Google Play Protect tidak mencurigai aplikasi sebagai dropper/installer.\n3. Mode Gelap Penuh di Semua Menu Sidebar: Latar belakang Platform AI, Platform Custom, Tutorial, Dashboard, Shop, Produktivitas, Tools, dan Pengaturan kini sepenuhnya gelap (deep slate & emerald).\n4. Deteksi Kredit Google Flow Real-Time: Sinkronisasi kredit otomatis secara berkala dengan pembacaan DOM akun Google Flow."
+        "version": "1.4.2",
+        "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.4.2.apk",
+        "changelog": "Pembaruan v1.4.2:\n1. Pembersihan Menyeluruh Produktivitas AI: Menghapus menu & antarmuka Produktivitas AI, dialog input kunci API, generator naskah, dan motion control agar antarmuka fokus, ringan, dan stabil.\n2. Optimalisasi Navigasi Sidebar: Tampilan sidebar lebih ramping dan efisien, hanya memfokuskan fitur inti Multi-Platform AI dan Prompt Premium (Gemini Canvas / App+).\n3. Peningkatan Performa & Stabilitas: Ukuran aplikasi lebih ramping dan penggunaan memori lebih hemat."
     },
     "desktop": {
-        "version": "1.2.37",
-        "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.37/AKA.AI.Tools.Pilot-v1.2.37.exe",
-        "changelog": "Pembaruan v1.2.37:\n1. Solusi Bentrok Sesi Prompt Premium & Flow Akun 1 (Anti-0x8007139F): Menyamakan cache CoreWebView2Environment dengan opsi seragam di seluruh tab browser dan Canvas Prompt Premium agar tidak macet atau error meski dibuka dalam urutan apa pun.\n2. Tampilan Grid Akun Ringkas 6×4 (Default Scale 100%): Menyusutkan ukuran kartu akun mode Grid secara adaptif menjadi 6 kartu menyamping dan 4 baris ke bawah dalam satu layar.\n3. Gradasi Dark Mode Elegan: Memperkaya latar belakang Dark Mode dengan efek gradasi emerald multi-stop yang serasi di seluruh kartu dan workspace."
+        "version": "1.2.38",
+        "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.38/AKA.AI.Tools.Pilot-v1.2.38.exe",
+        "changelog": "Pembaruan v1.2.38:\n1. Penghapusan Total Menu & Layanan Produktivitas AI: Menghapus seluruh antarmuka Produktivitas Studio, tombol floating edge, dialog kelola API Key Gemini, dan layanan background terkait secara total.\n2. Integrasi Penuh Prompt Premium: Drawer kanan kini didedikasikan secara eksklusif untuk Prompt Premium & Gemini Canvas (App+) yang terisolasi dan responsif.\n3. Perampingan Binary Aplikasi: Aplikasi berjalan lebih cepat, bersih, dan hemat memori."
     }
 }
