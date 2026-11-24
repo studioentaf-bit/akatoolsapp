@@ -1,13 +1,13 @@
 {
     "success": true,
     "android": {
-        "version": "1.4.2",
-        "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.4.2.apk",
-        "changelog": "Pembaruan v1.4.2:\n1. Pembersihan Menyeluruh Produktivitas AI: Menghapus menu & antarmuka Produktivitas AI, dialog input kunci API, generator naskah, dan motion control agar antarmuka fokus, ringan, dan stabil.\n2. Optimalisasi Navigasi Sidebar: Tampilan sidebar lebih ramping dan efisien, hanya memfokuskan fitur inti Multi-Platform AI dan Prompt Premium (Gemini Canvas / App+).\n3. Peningkatan Performa & Stabilitas: Ukuran aplikasi lebih ramping dan penggunaan memori lebih hemat."
+        "version": "1.4.3",
+        "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.4.3.apk",
+        "changelog": "Pembaruan v1.4.3:\n1. Tampilan Masa Aktif & Perpanjang Lisensi Langsung: Menampilkan tanggal berakhir & sisa hari masa aktif di bawah status lisensi serta tombol Perpanjang Lisensi langsung ke pembayaran QRIS (kecuali Lifetime).\n2. Mode List Prompt Premium: Opsi tampilan List dengan thumbnail kecil di samping judul selain tampilan Grid.\n3. Notifikasi Loading Upload/Download Gemini Canvas & Riwayat Unduhan Terpadu: Notifikasi live saat upload/download media di Prompt Premium dan seluruh unduhan tercatat di Riwayat Unduhan.\n4. Custom Folder Download Media: Pengguna dapat menentukan sendiri nama folder tujuan penyimpanan media.\n5. Tema Visual 3D Pastel Emerald (Light & Dark): Tampilan rounded, puffy, floating cards, dan gradasi pastel emerald yang segar."
     },
     "desktop": {
-        "version": "1.2.38",
-        "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.38/AKA.AI.Tools.Pilot-v1.2.38.exe",
-        "changelog": "Pembaruan v1.2.38:\n1. Penghapusan Total Menu & Layanan Produktivitas AI: Menghapus seluruh antarmuka Produktivitas Studio, tombol floating edge, dialog kelola API Key Gemini, dan layanan background terkait secara total.\n2. Integrasi Penuh Prompt Premium: Drawer kanan kini didedikasikan secara eksklusif untuk Prompt Premium & Gemini Canvas (App+) yang terisolasi dan responsif.\n3. Perampingan Binary Aplikasi: Aplikasi berjalan lebih cepat, bersih, dan hemat memori."
+        "version": "1.2.39",
+        "downloadUrl": "https://github.com/studioentaf-bit/akatoolsapp/releases/download/v1.2.39/AKA.AI.Tools.Pilot-v1.2.39.exe",
+        "changelog": "Pembaruan v1.2.39:\n1. Lisensi Pro Desktop All Fitur On: Membuka seluruh fitur (termasuk TikTok Downloader, Video Editor, Unlimited Akun & Unlimited Platform Kustom) untuk semua pemegang lisensi Pro Desktop.\n2. Tampilan Masa Aktif & Perpanjang Lisensi Langsung: Menampilkan masa aktif lisensi di bawah status lisensi serta tombol Perpanjang Lisensi langsung ke pembayaran QRIS (kecuali Lifetime).\n3. Mode List Prompt Premium & Notifikasi Upload/Download Canvas: Opsi tampilan Grid/List dengan thumbnail kecil di samping judul, notifikasi loading saat upload/download media Gemini Canvas, serta unduhan terpadu di Riwayat Unduhan.\n4. Custom Folder Download Media: Pengguna dapat memilih folder penyimpanan unduhan media sendiri di PC.\n5. Penghapusan Muse.ai & Pembaruan Tema Visual 3D Pastel Emerald (Light & Dark)."
     }
 }
