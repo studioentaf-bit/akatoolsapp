@@ -1,9 +1,9 @@
 {
     "success": true,
     "android": {
-        "version": "1.4.3",
-        "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.4.3.apk",
-        "changelog": "Pembaruan v1.4.3:\n1. Tampilan Masa Aktif & Perpanjang Lisensi Langsung: Menampilkan tanggal berakhir & sisa hari masa aktif di bawah status lisensi serta tombol Perpanjang Lisensi langsung ke pembayaran QRIS (kecuali Lifetime).\n2. Mode List Prompt Premium: Opsi tampilan List dengan thumbnail kecil di samping judul selain tampilan Grid.\n3. Notifikasi Loading Upload/Download Gemini Canvas & Riwayat Unduhan Terpadu: Notifikasi live saat upload/download media di Prompt Premium dan seluruh unduhan tercatat di Riwayat Unduhan.\n4. Custom Folder Download Media: Pengguna dapat menentukan sendiri nama folder tujuan penyimpanan media.\n5. Tema Visual 3D Pastel Emerald (Light & Dark): Tampilan rounded, puffy, floating cards, dan gradasi pastel emerald yang segar."
+        "version": "1.4.4",
+        "downloadUrl": "https://raw.githubusercontent.com/studioentaf-bit/akatoolsapp/main/AKA-AI-Tools-Pilot-v1.4.4.apk",
+        "changelog": "Pembaruan v1.4.4:\n1. Update Otomatis Langsung di Dalam Aplikasi (In-App Updater): Mengunduh APK terbaru langsung di dalam aplikasi dengan progress bar real-time (MB & persen) dan langsung memunculkan installer Android tanpa membuka browser eksternal.\n2. Auto-Resume Instalasi & Validasi APK: Otomatis melanjutkan pemasangan begitu izin 'Install dari sumber ini' diaktifkan, serta validasi integritas file APK sebelum pemasangan."
     },
     "desktop": {
         "version": "1.2.39",
